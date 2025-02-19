@@ -62,10 +62,5 @@ A interface é simples e responsiva, contando com:
 
 ## 📌 Melhorias Futuras
 
-- Implementação de um sorteio onde cada pessoa tenha um par único.
 - Opção para remover participantes da lista.
-- Armazenamento local dos nomes para não perder os dados ao atualizar a página.
 
-## 📄 Licença
-
-Este projeto é de código aberto e pode ser modificado conforme necessário.
